@@ -24,7 +24,7 @@ namespace UnitTestGPHandler
 
             GPHandler gHnd = new GPHandler();
             int resp2 = gHnd.addNewGP(dbC.getConn(), gp);
-
+            Assert.IsNotNull(resp2);
         }
     }
 }
