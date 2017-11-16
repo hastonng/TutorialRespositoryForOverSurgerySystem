@@ -6,7 +6,7 @@ using MySql;
 using System.Data.Common;
 
 
-namespace UnitTestReceptionistHandler
+namespace OverSurgeryUnitTest
 {
     [TestClass]
     public class UnitTestPatientHandler
