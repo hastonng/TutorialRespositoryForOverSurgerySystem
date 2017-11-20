@@ -1,7 +1,7 @@
 ﻿using System;
 using MySql.Data.MySqlClient;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using OverSurgery;
+using Tutorial1;
 using MySql;
 using System.Data.Common;
 

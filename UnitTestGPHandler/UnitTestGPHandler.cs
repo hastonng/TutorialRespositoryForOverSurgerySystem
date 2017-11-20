@@ -1,5 +1,5 @@
 ﻿using System;
-using OverSurgery;
+using Tutorial1;
 using MySql;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

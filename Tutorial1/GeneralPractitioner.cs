@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace OverSurgery
+namespace Tutorial1
 {
     public class GeneralPractitioner
     {

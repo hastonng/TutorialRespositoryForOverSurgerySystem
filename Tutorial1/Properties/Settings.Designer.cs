@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace OverSurgery.Properties
+namespace Tutorial1.Properties
 {
 
 

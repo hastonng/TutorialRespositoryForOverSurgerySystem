@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 
-namespace OverSurgery
+namespace Tutorial1
 {
     public class GPHandler
     {
@@ -17,3 +17,4 @@ namespace OverSurgery
         }
     }
 }
+
